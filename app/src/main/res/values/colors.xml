@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorLightGreen">#9cec9c</color>
+    <color name="colorDarkGreen">#508b0a</color>
+    <color name="colorPink">#ff1493</color>
+    <color name="colorDarkGrey">#242424</color>
+    <color name="colorWhite">#dddddd</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="pink">#edf3534a</color>
+    <color name="white">#fdfbfb</color>
+    <color name="black">#000000</color>
+
+    <color name="red">#D95238</color>
+    <color name="heart_default">#E48674</color>
+    <color name="translucent">#10000000</color>
+    <color name="rippelColor">#FFFFFF</color>
+</resources>

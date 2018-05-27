@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_cal_bmi"
+            android:title="Calculate BMI"
+            android:icon="@drawable/bmi_icon_drawer" />
+        <item
+            android:id="@+id/nav_heart_rate"
+            android:icon="@drawable/heart_rate_icon"
+            android:title="Heart Rate" />
+        <item
+            android:id="@+id/nav_foot_step"
+            android:icon="@drawable/footstep_icon"
+            android:title="Footstep counter" />
+
+        <item
+            android:id="@+id/nav_view_record"
+            android:icon="@drawable/ic_action_name"
+            android:title="User Information" />
+
+        <item
+            android:id="@+id/nav_view_health"
+            android:icon="@drawable/ic_health_record"
+            android:title="Health record" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Logout" />
+    </group>
+
+</menu>
